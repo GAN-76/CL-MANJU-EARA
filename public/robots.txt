@@ -1,0 +1,9 @@
+# Robots.txt für cleara.ch
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cleara.ch/sitemap.xml
+
+# Crawl-delay (optional, respektiert von einigen Bots)
+Crawl-delay: 1
