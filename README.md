@@ -1,6 +1,6 @@
-# CLEARA Reinigung - Website
+# Cleara Group GmbH - Website
 
-Professionelle, moderne und mobil-optimierte Website für das Schweizer Reinigungsunternehmen CLEARA Reinigung.
+Professionelle, moderne und mobil-optimierte Website für das Schweizer Reinigungsunternehmen Cleara Group GmbH.
 
 ## 🚀 Installation
 
@@ -107,4 +107,4 @@ colors: {
 
 ## 📄 Lizenz
 
-© 2024 CLEARA Reinigung. Alle Rechte vorbehalten.
+© 2026 Cleara Group GmbH. Alle Rechte vorbehalten.

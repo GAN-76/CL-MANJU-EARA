@@ -2,10 +2,10 @@ import { useRef, useState } from 'react'
 import emailjs from '@emailjs/browser'
 import { Mail, Phone, MapPin, Clock, ExternalLink, MessageCircle, Loader2, CheckCircle } from 'lucide-react'
 
-// TODO: Ersetze mit deinen EmailJS Credentials
-const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID'
-const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID'
-const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY'
+// EmailJS Credentials (from environment variables)
+const EMAILJS_SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID
+const EMAILJS_TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID
+const EMAILJS_PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY
 
 const Contact = () => {
   const formRef = useRef<HTMLFormElement>(null)

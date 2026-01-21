@@ -46,6 +46,15 @@ export default function Impressum() {
                 entstanden sind, werden ausgeschlossen.
               </p>
             </div>
+
+            <div>
+              <h3 className="font-semibold text-lg text-cleara-dark mt-8">Haftung für Links</h3>
+              <p className="mt-2">
+                Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres 
+                Verantwortungsbereichs. Der Zugriff und die Nutzung solcher Webseiten 
+                erfolgen auf eigene Gefahr des Nutzers.
+              </p>
+            </div>
           </div>
         </div>
       </div>
